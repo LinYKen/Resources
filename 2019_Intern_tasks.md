@@ -40,7 +40,7 @@ Designer:
 2. PolarisHub
    1. 1 Frontend Designer: Peng Chuxian
    2. 1 Frontend Developer: _______
-   3. 1 Flask Backend Developer: Cui Yuncong + _________
+   3. 1 Flask Backend Developer: Cui Yuncong + Lin Yukun
    4. 2 Go Backend Developers: ______ + _______
    5. 1 Potential Android Developer (if no, move to iFound): Yang Haowen
 3. iFound
@@ -109,7 +109,7 @@ ____________
 1. Collect weekly reports from each project and check if it is following the timeline.
 2. Ask developers to clarify when facing confusing words.
 3. Write a weekly summary for your monitoring projects (deadline: 10pm every Sunday).
-4. Investigate the school market, submit a feasible report of a new project for Polaris Studio. Currently an optional plan is a paid questionnaire system (You can ask two technical managers for more details), you can also design new projects yourself (recommended).
+
 Workload Allocation:
 
 1. Li Ke: Monitor the participating project.
